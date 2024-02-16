@@ -33,3 +33,10 @@ There are three folders in this repo mapped specifically to the spark/notebook c
 - `warehouse` to be used as a warehouse for written data
 
 [Find Guides and Tutorials Here](https://github.com/developer-advocacy-dremio/quick-guides-from-dremio)
+
+## First-time setup
+
+Once MinIO has started for the first time create a new bucket called `warehouse` from the web interface at <http://localhost:9001/>.
+
+Once has started for the first time create a new account on the web interface
+at <http://localhost:9047/>.
